@@ -2,7 +2,7 @@
 
 Lets learn git!
 
-WOOTTT!!!!!!!!!!!!!
+WOOTTT!!!
 
 ## installation
 
