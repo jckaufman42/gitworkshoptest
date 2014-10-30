@@ -2,6 +2,8 @@
 
 Lets learn git!
 
+WOOTTT!!!!!!!!!!!!!
+
 ## installation
 
 Visit [the github page](https://help.github.com/articles/set-up-git/).
